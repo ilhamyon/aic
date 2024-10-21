@@ -52,9 +52,9 @@ function Home() {
                             <Button size='large' className='bg-red-700 border-0 text-white'>Registration</Button>
                         </div>
                         <div className='flex lg:hidden gap-4 mt-10 flex flex-col'>
-                            <Link to='one-on-one-coaching'>
-                                <Button className='bg-transparent text-white'>Find a Coach for ONE-ON-ONE</Button>
-                            </Link>
+                            <Button className='bg-transparent text-white'>
+                                <Link to='one-on-one-coaching'>Find a Coach for ONE-ON-ONE</Link>
+                            </Button>
                             <Button className='bg-red-700 border-0 text-white'>Registration</Button>
                         </div>
                     </div>
