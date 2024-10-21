@@ -1,0 +1,196 @@
+[
+  {
+    "pvid": 1,
+    "name": "About AIC",
+    "isActive": true,
+    "sort": 2,
+    "isDefault": false,
+    "isAdminPanelShow": true,
+    "publicSubMenus": [
+      {
+        "pvid": 2,
+        "name": "Singapore Team",
+        "isActive": true,
+        "sort": 1,
+        "isDefault": true,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": true
+      },
+      {
+        "pvid": 3,
+        "name": "AIC Headquarter",
+        "isActive": false,
+        "sort": 2,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 18,
+        "name": "Leadership",
+        "isActive": true,
+        "sort": 1,
+        "isDefault": true,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": true
+      }
+    ]
+  },
+  {
+    "pvid": 4,
+    "name": "Program",
+    "isActive": true,
+    "sort": 4,
+    "isDefault": false,
+    "isAdminPanelShow": true,
+    "publicSubMenus": [
+      {
+        "pvid": 5,
+        "name": "Coaching Assistant",
+        "isActive": false,
+        "sort": 1,
+        "isDefault": true,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 6,
+        "name": "Coaching L1,L2,L3",
+        "isActive": true,
+        "sort": 2,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 7,
+        "name": "Oversea Training Camp",
+        "isActive": false,
+        "sort": 2,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 8,
+        "name": "Schedule",
+        "isActive": true,
+        "sort": 2,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": "null",
+        "isAdminPanelShow": true
+      }
+    ]
+  },
+  {
+    "pvid": 9,
+    "name": "SPRINT Analytics",
+    "isActive": true,
+    "sort": 5,
+    "isDefault": false,
+    "isAdminPanelShow": true,
+    "publicSubMenus": [
+      {
+        "pvid": 10,
+        "name": "Data analytics",
+        "isActive": true,
+        "sort": 1,
+        "isDefault": true,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 11,
+        "name": "AI Forecasting",
+        "isActive": true,
+        "sort": 2,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      }
+    ]
+  },
+  {
+    "pvid": 12,
+    "name": "Club Membership",
+    "isActive": true,
+    "sort": 6,
+    "isDefault": false,
+    "isAdminPanelShow": true,
+    "publicSubMenus": [
+      {
+        "pvid": 13,
+        "name": "Registration",
+        "isActive": true,
+        "sort": 1,
+        "isDefault": true,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": true
+      },
+      {
+        "pvid": 17,
+        "name": "Competition",
+        "isActive": true,
+        "sort": 1,
+        "isDefault": true,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": true
+      },
+      {
+        "pvid": 14,
+        "name": "Sprint Training",
+        "isActive": true,
+        "sort": 2,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 15,
+        "name": "Performance Dashboard",
+        "isActive": true,
+        "sort": 3,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      },
+      {
+        "pvid": 16,
+        "name": "Personal Coach Matching",
+        "isActive": true,
+        "sort": 4,
+        "isDefault": false,
+        "isGeneralContent": false,
+        "actionType": "content",
+        "action": null,
+        "isAdminPanelShow": false
+      }
+    ]
+  }
+]
